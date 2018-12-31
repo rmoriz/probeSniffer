@@ -53,7 +53,7 @@
   <h3>Kali Linux / Raspbian:</h3>
 
 ```
-$ sudo apt-get update && sudo apt-get install python3 python3-pip tshark -y
+$ sudo apt-get update && sudo apt-get install libxslt1-dev python3 python3-pip tshark -y
 
 $ git clone https://github.com/xdavidhu/probeSniffer
 
